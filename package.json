@@ -1,6 +1,6 @@
 {
   "name": "@migte/tplink-lightbulb-modified-version",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "This is a modified package/workaround for a project and is NOT the tplink-lightbulb module you should get. None of this package is my creation and all credits go to the original maker.",
   "main": "build/lib.js",
   "scripts": {
