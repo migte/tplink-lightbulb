@@ -1,7 +1,7 @@
 {
   "name": "@migte/tplink-lightbulb-modified-version",
   "version": "1.5.3",
-  "description": "Control TP-Link smart-home devices from nodejs - This is a modified package/workaround for a project and is NOT the tplink-lightbulb module you should get. None of this package is my creation and all credits go to the original maker.",
+  "description": "This is a modified package/workaround for a project and is NOT the tplink-lightbulb module you should get. None of this package is my creation and all credits go to the original maker.",
   "main": "build/lib.js",
   "scripts": {
     "release": "node release.js",
@@ -35,16 +35,6 @@
     "rimraf": "latest"
   },
   "keywords": [
-    "tp-link",
-    "lightbulb",
-    "smartbulb",
-    "smart-home",
-    "LB120",
-    "LB130",
-    "HS100",
-    "HS105",
-    "HS110",
-    "KP100"
   ],
   "dependencies": {
     "colorsys": "latest",
